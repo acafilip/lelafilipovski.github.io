@@ -1,0 +1,11 @@
+
+[00:36:26 UTC] [INFO] Checking if plugin directory clearing is needed
+[00:36:47 UTC] [INFO] Checking if plugin directory clearing is needed
+[00:36:51 UTC] [INFO] Checking if plugin directory clearing is needed
+[00:36:54 UTC] [INFO] Checking if plugin directory clearing is needed
+[00:37:02 UTC] [INFO] Checking if plugin directory clearing is needed
+[00:37:09 UTC] [INFO] Checking if plugin directory clearing is needed
+[00:37:12 UTC] [INFO] Checking if plugin directory clearing is needed
+[00:37:14 UTC] [INFO] Checking if plugin directory clearing is needed
+[00:37:16 UTC] [INFO] Checking if plugin directory clearing is needed
+[00:45:52 UTC] [INFO] Checking if plugin directory clearing is needed
